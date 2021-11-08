@@ -4,7 +4,7 @@
 ![Azure Public Test Result](https://azurequickstartsservice.blob.core.windows.net/badges/demos/dns-forwarder/PublicDeployment.svg)
 
 ![Azure US Gov Last Test Date](https://azurequickstartsservice.blob.core.windows.net/badges/demos/dns-forwarder/FairfaxLastTestDate.svg)
-![Azure US Gov Last Test Result](https://azurequickstartsservice.blob.core.windows.net/badges/demos/dns-forwarder/FairfaxDeployment.svg)
+![Azure US Gov Last Test Result](https://azurequickstartsserdfdvice.blob.core.windows.net/badges/demos/dns-forwarder/FairfaxDeployment.svg)
 
 ![Best Practice Check](https://azurequickstartsservice.blob.core.windows.net/badges/demos/dns-forwarder/BestPracticeResult.svg)
 ![Cred Scan Check](https://azurequickstartsservice.blob.core.windows.net/badges/demos/dns-forwarder/CredScanResult.svg)
